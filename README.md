@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projedo de um megamenu com bootstrap.
 
 <p align="center">
-  <img alt="pagina inicial" src=".github/imagem1.PNG" width="300px" height="674px">
+  <img alt="pagina inicial" src=".github/imagem1.PNG">
 </p>
 
 ## 🚀 Como Rodar
