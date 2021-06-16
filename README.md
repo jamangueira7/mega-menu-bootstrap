@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projedo de um megamenu com bootstrap.
+Projedo de um megamenu com bootstrap de multi nivel.
 
 <p align="center">
   <img alt="pagina inicial" src=".github/imagem1.PNG">
